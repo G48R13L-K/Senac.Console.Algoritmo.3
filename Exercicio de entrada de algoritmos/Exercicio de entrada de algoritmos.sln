@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senac.Console.Algoritmo3", "Exercicio de entrada de algoritmos\Senac.Console.Algoritmo3.csproj", "{2A40BDD4-82F8-442B-BA62-0F693BD3FC83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A40BDD4-82F8-442B-BA62-0F693BD3FC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A40BDD4-82F8-442B-BA62-0F693BD3FC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A40BDD4-82F8-442B-BA62-0F693BD3FC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A40BDD4-82F8-442B-BA62-0F693BD3FC83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45D706F1-45C2-491C-9569-D468518DE6A8}
+	EndGlobalSection
+EndGlobal
